@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <h1 align="center">Hi 👋, I'm Savas Gormus</h1>
 <h3 align="center">A learner for fullstack developer, guitar player and animal lover.</h3>
 <h6>🔭 I’m currently training on frontend and backend web development </h6>
